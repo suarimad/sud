@@ -1,0 +1,38 @@
+.row .col img{
+    width: 300px;
+    margin-top: 8px;
+}
+
+.slider h3, .slider h5 {
+    text-shadow: 2px 1px 3px rgba(0,0,0,1);
+}
+
+nav .nav-wrapper a img {
+    margin-top: 7px;
+    width: 300px;
+}
+
+.slider .caption{
+    margin-top: 300px;
+}
+
+.slider .slides img{
+    height: 1000px;
+}
+
+/* .btn-large {
+    padding: 50px;
+}
+
+.btn-large a{
+    padding-bottom: 40px;
+} */
+
+
+
+.btn-floating {
+    position: fixed;
+    z-index: 9;
+    bottom: 5px;
+    right: 5px;
+}
